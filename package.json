@@ -1,0 +1,18 @@
+{
+  "name": "simplecalculator",
+  "version": "1.0.0",
+  "description": "This is our typescript  project of simple calculator ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Safia Ali",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
